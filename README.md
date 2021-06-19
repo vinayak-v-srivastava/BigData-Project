@@ -5,9 +5,15 @@ POC on Crime Recorded (2001 - 2014) Big Data Analytics
 2. Write some problems on the basis of which data can be analysed.
 3. Tools used according to requirements. Some of them are mentioned below:
 
- (a) HiveQL\n
+ (a) HiveQL
+ 
  (b) MapReduce
+ 
  (c) Sqoop
+ 
  (d) Hadoop
+ 
  (e) HBase
 You can use tools on the basis of your own requirements.
+Please do share the project as much as you can and if you have any doubt, than do lemme know.
+ThankYou.
